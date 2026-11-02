@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1336" height="1530" viewBox="0 0 1336 1530" font-family="Segoe UI, Arial, sans-serif">
+<rect width="1336" height="1530" fill="#1e1e22"/>
+<text x="668" y="40" font-size="30" fill="#f2f2f2" font-weight="bold" text-anchor="middle" dominant-baseline="middle">Session - step sequencer</text>
+
+<text x="668" y="76" font-size="17" fill="#b8b8c0" font-weight="normal" text-anchor="middle" dominant-baseline="middle">The main view. One track selected, one note lane shown at a time.</text>
+
+<rect x="18" y="102" width="1300" height="1300" rx="20" fill="#2a2a2e"/>
+<circle cx="92" cy="176" r="52" fill="#5c5c66" stroke="#46464e" stroke-width="2"/>
+<text x="92" y="161" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Setup</text>
+<text x="92" y="176" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">save /</text>
+<text x="92" y="191" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">+Shift reset</text>
+
+<circle cx="220" cy="176" r="52" fill="#4cae54" stroke="#46464e" stroke-width="2"/>
+<text x="220" y="167.5" font-size="14" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Play</text>
+<text x="220" y="184.5" font-size="14" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">/ Stop</text>
+
+<circle cx="348" cy="176" r="52" fill="#5c5c66" stroke="#46464e" stroke-width="2"/>
+<text x="348" y="168" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Tempo</text>
+<text x="348" y="184" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">-5</text>
+
+<circle cx="476" cy="176" r="52" fill="#5c5c66" stroke="#46464e" stroke-width="2"/>
+<text x="476" y="168" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Tempo</text>
+<text x="476" y="184" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">+5</text>
+
+<circle cx="604" cy="176" r="52" fill="#5c5c66" stroke="#46464e" stroke-width="2"/>
+<text x="604" y="168.5" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Quantize</text>
+<text x="604" y="183.5" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">8/16/32</text>
+
+<circle cx="732" cy="176" r="52" fill="#35603a" stroke="#46464e" stroke-width="2"/>
+<text x="732" y="176" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">SESSION</text>
+
+<circle cx="860" cy="176" r="52" fill="#35506e" stroke="#46464e" stroke-width="2"/>
+<text x="860" y="162" font-size="11" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">NOTE</text>
+<text x="860" y="176" font-size="11" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">tap: AT</text>
+<text x="860" y="190" font-size="11" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">+Shift: setup</text>
+
+<circle cx="988" cy="176" r="52" fill="#7a5a2e" stroke="#46464e" stroke-width="2"/>
+<text x="988" y="176" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">DEVICE</text>
+
+<circle cx="1116" cy="176" r="52" fill="#6e3a58" stroke="#46464e" stroke-width="2"/>
+<text x="1116" y="169" font-size="11" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">USER</text>
+<text x="1116" y="183" font-size="11" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">+ metronome</text>
+
+<rect x="164" y="248" width="112" height="112" rx="12" fill="#e09a3c"/>
+<text x="220" y="304" font-size="17" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">1</text>
+
+<rect x="292" y="248" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="348" y="304" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">2</text>
+
+<rect x="420" y="248" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="476" y="304" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">3</text>
+
+<rect x="548" y="248" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="604" y="304" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">4</text>
+
+<rect x="676" y="248" width="112" height="112" rx="12" fill="#e09a3c"/>
+<text x="732" y="304" font-size="17" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">5</text>
+
+<rect x="804" y="248" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="860" y="304" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">6</text>
+
+<rect x="932" y="248" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="988" y="304" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">7</text>
+
+<rect x="1060" y="248" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="1116" y="304" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">8</text>
+
+<circle cx="92" cy="304" r="52" fill="#5c5c66" stroke="#46464e" stroke-width="2"/>
+<text x="92" y="304" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Shift</text>
+
+<circle cx="1244" cy="304" r="52" fill="#55406e" stroke="#46464e" stroke-width="2"/>
+<text x="1244" y="296" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Fill</text>
+<text x="1244" y="312" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">1/4</text>
+
+<rect x="164" y="376" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="220" y="432" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">9</text>
+
+<rect x="292" y="376" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="348" y="432" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">10</text>
+
+<rect x="420" y="376" width="112" height="112" rx="12" fill="#ececec"/>
+<text x="476" y="424" font-size="13" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">11</text>
+<text x="476" y="440" font-size="13" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">playhead</text>
+
+<rect x="548" y="376" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="604" y="432" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">12</text>
+
+<rect x="676" y="376" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="732" y="432" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">13</text>
+
+<rect x="804" y="376" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="860" y="432" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">14</text>
+
+<rect x="932" y="376" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="988" y="432" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">15</text>
+
+<rect x="1060" y="376" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="1116" y="432" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">16</text>
+
+<circle cx="92" cy="432" r="52" fill="#2e5f62" stroke="#46464e" stroke-width="2"/>
+<text x="92" y="424" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Swing</text>
+<text x="92" y="440" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">+</text>
+
+<circle cx="1244" cy="432" r="52" fill="#55406e" stroke="#46464e" stroke-width="2"/>
+<text x="1244" y="424" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Fill</text>
+<text x="1244" y="440" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">1/8</text>
+
+<rect x="164" y="504" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="220" y="560" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">17</text>
+
+<rect x="292" y="504" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="348" y="560" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">18</text>
+
+<rect x="420" y="504" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="476" y="560" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">19</text>
+
+<rect x="548" y="504" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="604" y="560" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">20</text>
+
+<rect x="676" y="504" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="732" y="560" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">21</text>
+
+<rect x="804" y="504" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="860" y="560" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">22</text>
+
+<rect x="932" y="504" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="988" y="560" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">23</text>
+
+<rect x="1060" y="504" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="1116" y="560" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">24</text>
+
+<circle cx="92" cy="560" r="52" fill="#2e5f62" stroke="#46464e" stroke-width="2"/>
+<text x="92" y="552" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Swing</text>
+<text x="92" y="568" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">-</text>
+
+<circle cx="1244" cy="560" r="52" fill="#55406e" stroke="#46464e" stroke-width="2"/>
+<text x="1244" y="552" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Fill</text>
+<text x="1244" y="568" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">1/16</text>
+
+<rect x="164" y="632" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="220" y="688" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">25</text>
+
+<rect x="292" y="632" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="348" y="688" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">26</text>
+
+<rect x="420" y="632" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="476" y="688" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">27</text>
+
+<rect x="548" y="632" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="604" y="688" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">28</text>
+
+<rect x="676" y="632" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="732" y="688" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">29</text>
+
+<rect x="804" y="632" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="860" y="688" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">30</text>
+
+<rect x="932" y="632" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="988" y="688" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">31</text>
+
+<rect x="1060" y="632" width="112" height="112" rx="12" fill="#7a5a2e"/>
+<text x="1116" y="688" font-size="17" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">32</text>
+
+<circle cx="92" cy="688" r="52" fill="#6e3434" stroke="#46464e" stroke-width="2"/>
+<text x="92" y="674" font-size="11" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Delete</text>
+<text x="92" y="688" font-size="11" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">hold 0.6s:</text>
+<text x="92" y="702" font-size="11" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">clear lane</text>
+
+<circle cx="1244" cy="688" r="52" fill="#55406e" stroke="#46464e" stroke-width="2"/>
+<text x="1244" y="680" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Fill</text>
+<text x="1244" y="696" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">1/32</text>
+
+<rect x="164" y="760" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="220" y="816" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">C2</text>
+
+<rect x="292" y="760" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="348" y="816" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">C#2</text>
+
+<rect x="420" y="760" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="476" y="816" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">D2</text>
+
+<rect x="548" y="760" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="604" y="816" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">D#2</text>
+
+<rect x="676" y="760" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="732" y="816" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">103</text>
+
+<rect x="804" y="760" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="860" y="816" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">111</text>
+
+<rect x="932" y="760" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="988" y="816" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">119</text>
+
+<rect x="1060" y="760" width="112" height="112" rx="12" fill="#e09a3c"/>
+<text x="1116" y="808.5" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">127</text>
+<text x="1116" y="823.5" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">selected</text>
+
+<circle cx="92" cy="816" r="52" fill="#5c5c66" stroke="#46464e" stroke-width="2"/>
+<text x="92" y="801" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Drum</text>
+<text x="92" y="816" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">bank UP</text>
+<text x="92" y="831" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">nudge +*</text>
+
+<circle cx="1244" cy="816" r="52" fill="#8a8a40" stroke="#46464e" stroke-width="2"/>
+<text x="1244" y="816" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Solo 4</text>
+
+<rect x="164" y="888" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="220" y="944" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">G#1</text>
+
+<rect x="292" y="888" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="348" y="944" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">A1</text>
+
+<rect x="420" y="888" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="476" y="944" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">A#1</text>
+
+<rect x="548" y="888" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="604" y="944" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">B1</text>
+
+<rect x="676" y="888" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="732" y="944" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">71</text>
+
+<rect x="804" y="888" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="860" y="944" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">79</text>
+
+<rect x="932" y="888" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="988" y="944" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">87</text>
+
+<rect x="1060" y="888" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="1116" y="944" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">95</text>
+
+<circle cx="92" cy="944" r="52" fill="#5c5c66" stroke="#46464e" stroke-width="2"/>
+<text x="92" y="929" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Drum</text>
+<text x="92" y="944" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">bank DOWN</text>
+<text x="92" y="959" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">nudge -*</text>
+
+<circle cx="1244" cy="944" r="52" fill="#8a8a40" stroke="#46464e" stroke-width="2"/>
+<text x="1244" y="944" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Solo 3</text>
+
+<rect x="164" y="1016" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="220" y="1072" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">E1</text>
+
+<rect x="292" y="1016" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="348" y="1072" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">F1</text>
+
+<rect x="420" y="1016" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="476" y="1072" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">F#1</text>
+
+<rect x="548" y="1016" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="604" y="1072" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">G1</text>
+
+<rect x="676" y="1016" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="732" y="1072" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">39</text>
+
+<rect x="804" y="1016" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="860" y="1072" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">47</text>
+
+<rect x="932" y="1016" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="988" y="1072" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">55</text>
+
+<rect x="1060" y="1016" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="1116" y="1072" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">63</text>
+
+<circle cx="92" cy="1072" r="52" fill="#2e5f62" stroke="#46464e" stroke-width="2"/>
+<text x="92" y="1058" font-size="11" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Double</text>
+<text x="92" y="1072" font-size="11" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">paste pat.</text>
+<text x="92" y="1086" font-size="11" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">+Shift: copy</text>
+
+<circle cx="1244" cy="1072" r="52" fill="#8a8a40" stroke="#46464e" stroke-width="2"/>
+<text x="1244" y="1072" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Solo 2</text>
+
+<rect x="164" y="1144" width="112" height="112" rx="12" fill="#3cb8bc"/>
+<text x="220" y="1192.5" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">C1</text>
+<text x="220" y="1207.5" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">shown lane</text>
+
+<rect x="292" y="1144" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="348" y="1200" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">C#1</text>
+
+<rect x="420" y="1144" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="476" y="1200" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">D1</text>
+
+<rect x="548" y="1144" width="112" height="112" rx="12" fill="#2e5f62"/>
+<text x="604" y="1200" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">D#1</text>
+
+<rect x="676" y="1144" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="732" y="1200" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">7</text>
+
+<rect x="804" y="1144" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="860" y="1200" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">15</text>
+
+<rect x="932" y="1144" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="988" y="1200" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">23</text>
+
+<rect x="1060" y="1144" width="112" height="112" rx="12" fill="#5c5c66"/>
+<text x="1116" y="1200" font-size="15" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">31</text>
+
+<circle cx="92" cy="1200" r="52" fill="#6e3434" stroke="#46464e" stroke-width="2"/>
+<text x="92" y="1185" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Record</text>
+<text x="92" y="1200" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Arm</text>
+<text x="92" y="1215" font-size="12" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">capture</text>
+
+<circle cx="1244" cy="1200" r="52" fill="#8a8a40" stroke="#46464e" stroke-width="2"/>
+<text x="1244" y="1200" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Solo 1</text>
+
+<circle cx="220" cy="1328" r="52" fill="#e09a3c" stroke="#46464e" stroke-width="2"/>
+<text x="220" y="1313" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Track 1</text>
+<text x="220" y="1328" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">hold:</text>
+<text x="220" y="1343" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">settings</text>
+
+<circle cx="348" cy="1328" r="52" fill="#9a66e0" stroke="#46464e" stroke-width="2"/>
+<text x="348" y="1313" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Track 2</text>
+<text x="348" y="1328" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">hold:</text>
+<text x="348" y="1343" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">settings</text>
+
+<circle cx="476" cy="1328" r="52" fill="#4cae54" stroke="#46464e" stroke-width="2"/>
+<text x="476" y="1313" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Track 3</text>
+<text x="476" y="1328" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">hold:</text>
+<text x="476" y="1343" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">settings</text>
+
+<circle cx="604" cy="1328" r="52" fill="#4a8fd9" stroke="#46464e" stroke-width="2"/>
+<text x="604" y="1313" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Track 4</text>
+<text x="604" y="1328" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">hold:</text>
+<text x="604" y="1343" font-size="12" fill="#141418" font-weight="normal" text-anchor="middle" dominant-baseline="middle">settings</text>
+
+<circle cx="732" cy="1328" r="52" fill="#5c5c66" stroke="#46464e" stroke-width="2"/>
+<text x="732" y="1328" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Mute 1</text>
+
+<circle cx="860" cy="1328" r="52" fill="#5c5c66" stroke="#46464e" stroke-width="2"/>
+<text x="860" y="1328" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Mute 2</text>
+
+<circle cx="988" cy="1328" r="52" fill="#5c5c66" stroke="#46464e" stroke-width="2"/>
+<text x="988" y="1328" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Mute 3</text>
+
+<circle cx="1116" cy="1328" r="52" fill="#5c5c66" stroke="#46464e" stroke-width="2"/>
+<text x="1116" y="1328" font-size="13" fill="#f2f2f2" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Mute 4</text>
+
+<line x1="164" y1="240" x2="1172" y2="240" stroke="#b8b8c0" stroke-width="2"/>
+<rect x="410" y="227" width="516" height="26" rx="6" fill="#1e1e22"/>
+<text x="668" y="241" font-size="16" fill="#f2f2f2" font-weight="bold" text-anchor="middle" dominant-baseline="middle">Step sequencer - 32 steps of the shown note lane</text>
+
+<line x1="164" y1="752" x2="1172" y2="752" stroke="#b8b8c0" stroke-width="2"/>
+<rect x="380" y="739" width="576" height="26" rx="6" fill="#1e1e22"/>
+<text x="668" y="753" font-size="16" fill="#f2f2f2" font-weight="bold" text-anchor="middle" dominant-baseline="middle">Drum pads (select lane + play)   |   Velocity selector</text>
+
+<text x="668" y="1430" font-size="15" fill="#b8b8c0" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Tap a step = toggle it (entered with the selected velocity; red velocity grid = dynamic mode, hit strength is used).</text>
+
+<text x="668" y="1454" font-size="15" fill="#b8b8c0" font-weight="normal" text-anchor="middle" dominant-baseline="middle">Drum pads play live and pick which note lane the steps show. Hold Shift while tapping = select silently.</text>
+
+<text x="668" y="1478" font-size="15" fill="#b8b8c0" font-weight="normal" text-anchor="middle" dominant-baseline="middle">* Bank buttons nudge held steps instead. Tap the selected velocity again = dynamic mode (tap any level to leave it).</text>
+
+</svg>
